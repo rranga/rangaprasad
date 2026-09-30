@@ -2,7 +2,7 @@ name: Deploy Portfolio to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [portfolio-professional-themes]
   workflow_dispatch:
 
 permissions:
