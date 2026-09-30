@@ -1,8 +1,8 @@
-# Rangaprasad R — Professional Portfolio
+# Rangaprasad Rekkamalla — Professional Portfolio
 
 > Senior Frontend Engineer · Angular Specialist · React Developer · Frontend Architect
 
-This directory contains the standalone portfolio website for **Rangaprasad R**, a frontend engineer with 10+ years of experience building scalable enterprise web applications.
+This directory contains the standalone portfolio website for **Rangaprasad Rekkamalla**, a frontend engineer with 10+ years of experience building scalable enterprise web applications.
 
 ## Portfolio
 
@@ -121,7 +121,8 @@ The next evolution can include:
 - GitHub: https://github.com/rranga
 - LinkedIn: https://www.linkedin.com/in/rangaaprasad
 - Email: rangaprasad88@gmail.com
+- WhatsApp: +91 98846 46015
 
 ---
 
-© Rangaprasad R · Senior Frontend Engineer · Angular Specialist
+© Rangaprasad Rekkamalla · Senior Frontend Engineer · Angular Specialist
