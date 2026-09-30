@@ -97,7 +97,7 @@ The repository includes a GitHub Actions workflow:
 .github/workflows/portfolio-pages.yml
 ```
 
-The workflow publishes the `portfolio/` directory through GitHub Pages when changes are pushed to the `portfolio-professional-themes` branch.
+The workflow publishes the `portfolio/` directory through GitHub Pages whenever changes are pushed to the `main` branch.
 
 After GitHub Pages is enabled for the repository, the Actions workflow provides the deployed site URL.
 
